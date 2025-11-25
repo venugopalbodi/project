@@ -13,7 +13,7 @@ int main()
 	{
 		printf("enter number:");
 		scanf("%d",&num);
-		printf("new update:")
+		printf("new update:");
 		printf("factorial:%d\n",factorial(num));
 	}
 }
